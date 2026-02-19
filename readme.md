@@ -265,6 +265,7 @@
 - [I Don't Care About Commit Message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - Auto-generate commit messages and push actions in VS Code.
 - [Python Smart Exceptions](https://github.com/roma-guru/smart-exceptions) - AI-powered Python exceptions debugging.
 - [TextCraft](https://github.com/suncloudsmoon/TextCraft) - AI-powered Word add-in for text generation and proofreading.
+- [MOSS](https://github.com/mosscomputing/moss) - Cryptographic signing for AI agent outputs using post-quantum ML-DSA-44 signatures. Creates tamper-proof audit trails for ChatGPT-powered applications.
 
 ## Packages
 
